@@ -6,11 +6,11 @@ config:
   fortios:cabundlefile:
     value: /etc/ssl/certs/firewall.crt
   fortios:hostname:
-    value: 209.44.199.217 
+    value: xxx.xxx.xxx.xxx     # INSERT YOUR FQDN OR IP ADDRESS  
   fortios:insecure:
     value: true 
   fortios:token:
-    value: thsNr5qt6dgj7Nfh3Ggynq6z1NGpzn 
+    value: thsNr5qt6dgj7Nfh3Ggynq6z1NGpz  # INSERT YOUR API USER TOKEN
 
 resources:
   # Create provider instance
